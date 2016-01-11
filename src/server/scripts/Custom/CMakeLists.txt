@@ -13,6 +13,19 @@
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
 #  ${sources_Custom}
+Custom/3v3/npc_solo3v3.cpp
+Custom/3v3/npc_solo3v3.h
+Custom/Arena-Ladder/arena_crystal.cpp
+Custom/Arena-Ladder/arenaladder.cpp
+Custom/Arena-Spectator/arena_spectator.cpp
+Custom/Duel/Bloodmoneyduels.cpp
+Custom/Duel/Boss_Announcer.cpp
+Custom/Duel/Phased_duel.cpp
+Custom/Duel/cooldowns_crystal.cpp
+Custom/Duel/reset_onduel_end.cpp
+Custom/Killstreak/killstreak.cpp
+Custom/Morpher/morpher_npc.cpp
+Custom/MultiVendor/npc_multivendor.sql
 Custom/TransmogDisplayVendor/TransmogDisplayVendorConf.h
 Custom/TransmogDisplayVendor/TransmogDisplayVendor.cpp
 Custom/player_commands.cpp
